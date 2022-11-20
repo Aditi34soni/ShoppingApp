@@ -12,6 +12,8 @@ Technologies & Tools Used:
 7. SpringToolSuite4
 
 Aditi's Shopping app Diagram. 
+![image](https://user-images.githubusercontent.com/104248629/202905336-b4e5b2eb-317c-43ab-aa2d-b19bdefd4736.png)
+
 
 #	User Story
 1	As an user, I can login.
